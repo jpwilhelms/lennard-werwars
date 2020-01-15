@@ -8,5 +8,4 @@ class SpielplanTest {
         Spielplan spielplan = new Spielplan();
         System.out.println( spielplan.getDieb() );
     }
-
 }
