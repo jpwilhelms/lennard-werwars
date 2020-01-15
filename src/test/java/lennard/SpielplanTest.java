@@ -1,10 +1,10 @@
 package lennard;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-class SpielplanTest {
+public class SpielplanTest {
     @Test
-    void test() {
+    public void test() {
         Spielplan spielplan = new Spielplan();
         System.out.println( spielplan.getDieb() );
     }
